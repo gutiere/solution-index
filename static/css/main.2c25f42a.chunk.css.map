@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/components/App.css"],"names":[],"mappings":"AAAA,eACI,iBAAkB,CAClB,MAAS,CACT,KAAQ,CACR,UAAW,CACX,WAAY,CACZ,qBAAsB,CACtB,UACJ","file":"main.2c25f42a.chunk.css","sourcesContent":[".app-container {\n    position: absolute;\n    left: 0px;\n    top: 0px;\n    width: 100%;\n    height: 100%;\n    background-color: gray;\n    color: white;\n}\n"]}
