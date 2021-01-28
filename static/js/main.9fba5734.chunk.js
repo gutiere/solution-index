@@ -1,0 +1,2 @@
+(this["webpackJsonpsolution-index"]=this["webpackJsonpsolution-index"]||[]).push([[0],{10:function(n,e,t){"use strict";t.r(e);var o=t(1),c=t(0),i=t.n(c),s=t(3),r=t.n(s),d=(t(9),function(){return Object(o.jsx)("div",{className:"app-container",children:"Hello world"})});r.a.render(Object(o.jsx)(i.a.StrictMode,{children:Object(o.jsx)(d,{})}),document.getElementById("root"))},9:function(n,e,t){}},[[10,1,2]]]);
+//# sourceMappingURL=main.9fba5734.chunk.js.map
